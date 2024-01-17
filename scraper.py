@@ -10,8 +10,11 @@ headers = {
 baseURL = 'https://www.local.ch/fr/q/lausanne/restaurant?page={}'
 
 
-# Returns the contents of a page given the url
 def getURLContent(url):
+    """
+    Returns the contents of a page given the url
+    url (string) 
+    """
     with requests.Session() as s:
         s.headers.update(headers)
         response = s.get(url)
@@ -25,12 +28,24 @@ def getURLContent(url):
             return None
 
 def getRestaurantsOnPage(content):
+    """
+    Creates a list of restaurants/items in local.ch page
+    content (bs4.BeautifulSoup)
+    """
     return content.find_all('div', {'class': 'SearchResultList_listElementWrapper__KRuKD'})
 
-
+def getNameWithListing(listing):
+    """
+    Gets the name of the listing on local.ch item
+    listing (bs4.element.ResultSet) : represents one item in the list gotten on local.ch
+    """
+    return listing.find('h2').find('span').text.strip()
 
 if __name__ == "__main__":
     page = 1
     url = baseURL.format(page)
     content = getURLContent(url)
-    print(getRestaurantsOnPage())
+    restaurants = getRestaurantsOnPage(content)
+    name = getNameWithListing(restaurants[0])
+    print(name)
+
