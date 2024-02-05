@@ -1,0 +1,741 @@
+﻿name,address,rating,review_count
+Au Grain de Sel,"Rue de la Borde 23, 1018 Lausanne",,0
+Best Western Plus Hôtel Mirabeau,"Avenue de la Gare 31, 1003 Lausanne",4.5,10
+Hong Yan Restaurant Chinois à Lausanne,"Avenue du Mont-Blanc 1, 1018 Lausanne",5.0,1
+Hôtel-Restaurant de l'Ours,"Rue du Bugnon 2, 1005 Lausanne",4.3,10
+Keyann Bistro Libanais,"Avenue Frédéric-César-de-la-Harpe 43B, 1007 Lausanne",4.5,4
+Keyann Café Libanais,"Avenue du Léman 79, 1005 Lausanne",5.0,3
+la Nonna,"Rue du Maupas 17, 1004 Lausanne",4.4,13
+La Torre,"Rue de l'Ale 44, 1003 Lausanne",4.5,10
+le Milan,"Boulevard de Grancy 54, 1006 Lausanne",4.5,26
+Le Petit Ajaccio Sàrl,"Avenue d'Echallens 82, 1004 Lausanne",,0
+le Petit Coin Gourmand,"Avenue de Cour 6A, 1007 Lausanne",4.1,7
+Le Théâtre Restaurant,"Avenue du Théâtre 12, 1005 Lausanne",4.4,27
+Les Berges de Vidy,"Chemin du Camping 3, 1007 Lausanne",4.3,13
+Luigia - Restaurant Pizzeria Lausanne,"Rue Saint-Pierre 3, 1003 Lausanne",5.0,5
+Mami Pizza,"Avenue de Sévelin 13F, 1004 Lausanne",5.0,6
+Restaurant Churrasco,"Rue de Bourg 51, 1003 Lausanne",4.0,9
+Restaurant Dalat,"Place du Vallon 5, 1005 Lausanne",4.4,16
+Restaurant HOIAN BBQ,"Chemin des Pêcheurs 7, 1007 Lausanne",4.3,73
+Ristorante St Paul,"Avenue d'Echallens 72, 1004 Lausanne",4.5,14
+Saveurs de Beyrouth,"Place Chauderon 38, 1003 Lausanne",,0
+Ugarit,"Avenue de Morges 46, 1004 Lausanne",4.0,1
+Au Couscous,"Rue Enning 2, 1003 Lausanne",5.0,3
+Brasserie de Montelly,"Chemin de Montelly 1, 1007 Lausanne",5.0,3
+Chez Xu 1,"Rue du Tunnel 10, 1005 Lausanne",4.5,13
+Chinatown,"Rue Grand-St-Jean 1, 1003 Lausanne",4.3,12
+Dun-Huang,"Chemin de Pierrefleur 40, 1004 Lausanne",4.9,8
+L'étoile blanche,"Avenue du Tribunal-Fédéral 1, 1005 Lausanne",3.8,8
+le Cazard,"Rue Pré-du-Marché 15, 1004 Lausanne",4.8,4
+Le P'tit Central,"Rue Centrale 9, 1003 Lausanne",,0
+:Maison 66,"Rue de Genève 66, 1004 Lausanne",5.0,1
+Montchoisi Gourmand,"Avenue Antoine-Michel-Servan 36, 1006 Lausanne",4.0,3
+Osteria Balsamico,"Avenue d'Ouchy 14, 1006 Lausanne",4.4,41
+Oy Isan Thaï Food,"Avenue Juste-Olivier 5, 1006 Lausanne",5.0,3
+Petit Boeuf,"Avenue Vingt-Quatre-Janvier 4, 1004 Lausanne",4.3,19
+Restaurant La Rive Vidy,"Avenue Emile-Henri-Jaques-Dalcroze 1, 1007 Lausanne",5.0,1
+Restaurant Shangri-La,"Avenue Gratta-Paille 2, 1018 Lausanne",4.7,87
+Swisshallal Food Sàrl,"Avenue Louis-Ruchonnet 9, 1003 Lausanne",5.0,8
+White Horse,"Avenue d'Ouchy 66, 1006 Lausanne",5.0,1
+Bar à tapas Aipes,"Rue de la Tour 8, 1004 Lausanne",,0
+Boulangerie des Bergières,"Avenue Bergières 30, 1004 Lausanne",4.9,9
+Brasserie de Chauderon,"Rue de l'Ale 43, 1003 Lausanne",,0
+Brasserie de la Pontaise,"Rue de la Pontaise 52, 1018 Lausanne",5.0,1
+Brasserie des Bergières SA,"Avenue Bergières 42, 1004 Lausanne",4.7,481
+Brasserie St-Laurent,"Rue Saint-Laurent 16, 1003 Lausanne",4.2,9
+Café de l'Hôtel-de-Ville,"Place de la Palud 10, 1003 Lausanne",5.0,5
+Café L'Evêché,"Rue Louis-Curtat 4, 1005 Lausanne",4.3,16
+Hokaido Chailly,"Avenue de Chailly 19, 1012 Lausanne",5.0,4
+l'Orchidée,"Rue de l'Ale 25, 1003 Lausanne",4.4,9
+La Crêperie d'Ouchy,"Place du Port 7, 1006 Lausanne",3.0,2
+le Byblos,"Rue Cheneau-de-Bourg 2, 1003 Lausanne",,0
+Le Montriond,"Avenue Edouard-Dapples 25, 1006 Lausanne",5.0,2
+Le Thaï au Lac,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",4.5,19
+Ming Xuan,"Rue Caroline 5, 1003 Lausanne",4.4,17
+P.F. Café Pizzeria,"Chemin de Pierrefleur 38, 1004 Lausanne",5.0,1
+Restaurant au Charbon,"Avenue de Chailly 13, 1012 Lausanne",4.7,9
+Restaurant Casablanca,"Avenue d'Echallens 41, 1004 Lausanne",,0
+Restaurant Chalet Suisse,"Route du Signal 40, 1018 Lausanne",4.4,36
+Restaurant du Port,"Place du Port 5, 1006 Lausanne",4.8,55
+Restaurant du Tennis Lausanne-Sport,"Route des Plaines-du-Loup 7, 1018 Lausanne",4.4,29
+Restaurant Japonais Sakura,"Chemin de Pierrefleur 30, 1004 Lausanne",4.0,8
+Restaurant LA NAUTICA OUCHY,"Chemin des Pêcheurs 7, 1007 Lausanne",,0
+Restaurant Mill'Feuilles,"Avenue de la Sallaz 8, 1005 Lausanne",,0
+Suprême Tacos,"Rue du Simplon 16, 1006 Lausanne",5.0,1
+Tea Room de Beaulieu,"Avenue Alexandre-Vinet 39, 1004 Lausanne",3.5,4
+Tennis-Club Stade-Lausanne,"Avenue de Rhodanie 53, 1007 Lausanne",4.9,7
+The Lacustre,"Quai Jean-Pascal Delamuraz 1, 1006 Lausanne",,0
+Alliés (les),"Rue de la Pontaise 48, 1018 Lausanne",4.7,19
+Bleu Lézard,"Rue Enning 10, 1003 Lausanne",5.0,1
+Chalet des Bains,"Avenue Emile-Henri-Jaques-Dalcroze 1, 1007 Lausanne",4.8,21
+Crêperie de Grancy,"Avenue de Chailly 59, 1012 Lausanne",4.0,5
+Fook Moon,"Rue Saint-Martin 9, 1003 Lausanne",5.0,4
+Istanbul Grill & More Lausanne,"Rue Côtes-de-Montbenon 20, 1003 Lausanne",4.1,8
+la Carillère,"Route du Jorat 73, 1000 Lausanne 26",4.9,21
+La Paix Restaurant,"Avenue Benjamin-Constant 5, 1003 Lausanne",,0
+La Radio,"Route d'Oron 11, 1010 Lausanne",3.9,7
+La Riviera Lausanne-Ouchy,"Place de la Navigation 8, 1006 Lausanne",3.8,9
+Laxmi,"Escaliers du Marché 5, 1003 Lausanne",,0
+Le Fraisier,"Ruelle Grand-St-Jean 9, 1003 Lausanne",5.0,4
+Le Gros Minet,"Avenue de Cour 67, 1007 Lausanne",4.3,7
+Le Lyrique,"Rue Beau-Séjour 29, 1003 Lausanne",4.3,6
+Le Marrakech,"Chemin des Falaises 2, 1005 Lausanne",,0
+Le Tirol Sàrl,"Chemin des Bossons 3, 1018 Lausanne",5.0,3
+Oh! Liban,"Avenue de la Gare 29, 1003 Lausanne",4.8,8
+Restaurant Al Dente,"Chemin de Maillefer 121, 1018 Lausanne",4.3,12
+Restaurant de l'Aéroport Blécherette,"Avenue du Grey 117, 1018 Lausanne",4.1,12
+Restaurant FU LI,"Avenue de Chailly 21, 1012 Lausanne",4.5,25
+Tao-Lounge-Bar,"Rue Côtes-de-Montbenon 20, 1003 Lausanne",4.7,3
+Tribeca,"Place de la Riponne 4, 1005 Lausanne",4.7,7
+Turkan Yasar,"Avenue de Tivoli 1, 1007 Lausanne",5.0,1
+Au Chat Noir,"Rue Beau-Séjour 27, 1003 Lausanne",4.8,9
+Bamee Bar,"Avenue de la Gare 32, 1003 Lausanne",5.0,3
+Bar - Restaurant 44,"Rue de Genève 86, 1004 Lausanne",3.0,3
+Brasserie de Chailly,"Chemin de Rovéréaz 5, 1012 Lausanne",3.3,3
+Café de Béthusy,"Avenue de Béthusy 27, 1005 Lausanne",,0
+Café des Artisans,"Rue Centrale 16, 1003 Lausanne",5.0,5
+Café Restaurant des Boveresses,"Avenue des Boveresses 29, 1010 Lausanne",4.0,3
+café restaurant Le Valentin,"Rue du Valentin 30, 1004 Lausanne",5.0,1
+Café Restaurant PortoNovo,"Rue de Genève 98, 1004 Lausanne",4.2,5
+Chez Xu 2,"Rue du Petit-Chêne 27, 1003 Lausanne",3.8,4
+Coccinelle Café,"Rue Pichard 20, 1003 Lausanne",4.7,4080
+Coteau-Fleuri,"Route d'Oron 77, 1010 Lausanne",4.8,4
+"CREACION DEL TATA, Hector Nunez","Rue de la Borde 9, 1018 Lausanne",5.0,3
+Gertrude Café,"Rue Caroline 12, 1003 Lausanne",5.0,2
+Gymnase du Bugnon,"Rue du Bugnon 5, 1005 Lausanne",,0
+il Gambero,"Avenue des Figuiers 2, 1007 Lausanne",4.5,12
+Java,"Rue Marterey 36, 1005 Lausanne",4.6,5
+L'ÂGE D'OR (L'AO),"Pont Bessières 3, 1005 Lausanne",4.2,9
+L'Ardoise,"Avenue de Cour 4, 1007 Lausanne",5.0,1
+La Croix d'Ouchy,"Avenue d'Ouchy 43, 1006 Lausanne",4.9,20
+Le Kiosque Saint-François,"Place Saint-François 13, 1003 Lausanne",,0
+Pomodoro della Nona,"Rue Louis-Curtat 6, 1005 Lausanne",5.0,2
+Restaurant de Fontenay,"Chemin de Fontenay 7B, 1007 Lausanne",4.8,10
+"Restaurant du Tennis-Club, Stade Lausanne","Avenue de Rhodanie 53, 1007 Lausanne",4.6,8
+Restaurant le Tokyo,"Rue Côtes-de-Montbenon 22, 1003 Lausanne",4.7,6
+Sardine,"Rue de la Barre 5, 1005 Lausanne",,0
+HSF SA - Restaurant Histoire Sans Faim,"Parc du Loup 5A, 1018 Lausanne",,0
+Smaggy,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",,0
+bar gala Sàrl,"Rue du Petit-Saint-Jean 7, 1003 Lausanne",,0
+BR Groupe snc,"Avenue de Béthusy 27, 1005 Lausanne",,0
+Coop,"Rue Saint-Laurent 24-30, 1003 Lausanne",,0
+Kantan Sushi Lausanne,"Place Chauderon 20A, 1003 Lausanne",,0
+L'artisan,"Place du Tunnel 5, 1005 Lausanne",5.0,1
+Le Bornan,"Allée du Bornan 6, 1007 Lausanne",,0
+Le labo traiteur,"Avenue Jomini 5, 1004 Lausanne",,0
+Los Nobles Tacos,"Avenue du Léman 77, 1005 Lausanne",,0
+Maharaja Food Concepts (MFC) Sàrl,"Avenue Bergières 20, 1004 Lausanne",,0
+Momo House Sàrl,"Avenue Recordon 2, 1004 Lausanne",,0
+Restaurant Le Café du Tramway,"Rue de la Pontaise 6B, 1018 Lausanne",,0
+Seghen sa,"Chemin du Furet 4, 1018 Lausanne",,0
+Snack du Marché Sàrl,"Rue Pré-du-Marché 3, 1004 Lausanne",,0
+The Greek Project SA,"Rue Marterey 1, 1005 Lausanne",,0
+The Lunch Club Sàrl,"Chemin de Montolivet 19A, 1006 Lausanne",,0
+Aux 3 Tonneaux,"Rue Grand-St-Jean 18, 1003 Lausanne",3.5,4
+de Tivoli,"Avenue de Tivoli 1, 1007 Lausanne",3.8,4
+La Couronne d'Or,"Rue des Deux-Marchés 13, 1005 Lausanne",5.0,2
+le Lapin Vert,"Ruelle du Lapin-Vert 2, 1005 Lausanne",5.0,1
+le Saxo,"Rue Pré-du-Marché 37, 1004 Lausanne",5.0,2
+MYO Sushi Bar,"Allée Ernest-Ansermet 1, 1003 Lausanne",3.0,2
+Obeirut restaurant,"Rue Bellefontaine 2, 1003 Lausanne",4.3,4
+Pré-Fleuri,"Avenue d'Ouchy 22, 1006 Lausanne",4.5,2
+57° Grill,"Place du Port 2, 1006 Lausanne",,0
+Aki Restaurant,"Rue Marterey 25, 1005 Lausanne",,0
+Anne-Sophie Pic,"Chemin de Beau-Rivage 21, 1006 Lausanne",,0
+Artishow Bar Gallery,"Rue Côtes-de-Montbenon 5, 1003 Lausanne",,0
+Asia Express Chen,"Avenue Louis-Ruchonnet 1, 1003 Lausanne",,0
+Äss-Bar,"Rue du Petit-Chêne 28 bis, 1003 Lausanne",,0
+ATA SA,"Avenue de Rumine 22, 1005 Lausanne",,0
+Aux fleurs de la Terre,"Avenue de Cour 74, 1007 Lausanne",,0
+Aux Reflets des Isles,"Chemin de Renens 43, 1004 Lausanne",,0
+Aux Trois Tonneaux,"Rue Grand-St-Jean 18, 1003 Lausanne",,0
+Base Bar,"Avenue de Sévelin 46, 1004 Lausanne",,0
+Baytouti,"Avenue de Cour 71B, 1007 Lausanne",,0
+Beirut House,"Rue des Fontenailles 10, 1007 Lausanne",,0
+BELLA ITALIA AL SARL,"Avenue d'Echallens 17, 1004 Lausanne",,0
+Bibibowl,"Place Grand-St-Jean 2, 1003 Lausanne",,0
+Bluebird Café,"Rue Centrale 29, 1003 Lausanne",,0
+Boky,"place de la Gare 2, 1003 Lausanne",,0
+Brasserie 1893,"Route de Berne 301, 1010 Lausanne",,0
+Bulldog Bar et Resto,"Rue du Port-Franc 17, 1003 Lausanne",,0
+Cafe Barath,"Rue Pichard 8, 1003 Lausanne",,0
+Café Beau-Rivage,"Place du Port 17, 1006 Lausanne",,0
+Café-Café,"Chemin du Bois-de-Vaux 20, 1007 Lausanne",,0
+Cafe Cafe,"Chemin du Bois-de-Vaux 20, 1007 Lausanne",,0
+Café de Boisy,"Chemin du Boisy 41, 1004 Lausanne",,0
+Café de Prélaz titulaire,"Avenue de Morges 141, 1004 Lausanne",,0
+Café des Avenues Sàrl,"Avenue de Jurigoz 20, 1006 Lausanne",4.6,24
+Café du Vieil-Ouchy,"Place du Port 3, 1006 Lausanne",,0
+Café L'Evêché,"Rue Louis-Curtat 4, 1005 Lausanne",,0
+Café Mozart,"Rue de la Grotte 2, 1003 Lausanne",,0
+Café-Restaurant Chinois Dongpo,"Rue du Maupas 34, 1004 Lausanne",,0
+Café restaurant de la Bourdonnette,"Route de Chavannes 201, 1007 Lausanne",4.6,15
+Café Restaurant Harmonie,"Rue Germaine-Ernst 9, 1018 Lausanne",,0
+Café Restaurant New Delhi,"Avenue Louis-Ruchonnet 2, 1003 Lausanne",,0
+Chez Mario,"Rue de Bourg 28, 1003 Lausanne",,0
+Chez Quang,"Avenue du Grey 58, 1018 Lausanne",,0
+Chocolaterie Wuthrich,"Avenue Juste-Olivier 11, 1006 Lausanne",,0
+Churrascaria le Mont d'Or,"Chemin de Contigny 1, 1007 Lausanne",,0
+Cipollino,"Passage Saint-François 2, 1003 Lausanne",,0
+Cipriano - wine & ham,"Rue du Port-Franc 11, 1003 Lausanne",,0
+Coin Cafe,"Rue Caroline 17, 1003 Lausanne",,0
+Côté Sushi - Lausanne,"Rue du Grand-Pont 8, 1003 Lausanne",,0
+Crazy Kitchen Steakhouse,"Avenue de Tivoli 60, 1007 Lausanne",,0
+Cuba Libre Restaurant,"Chemin de Boissonnet 77, 1010 Lausanne",,0
+Cuisine Orientale,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",,0
+Cuisine Orientale C&O,"Avenue Emile-Henri-Jaques-Dalcroze, 1007 Lausanne",,0
+Cups n' Cakes,"Avenue du Tribunal-Fédéral 2, 1005 Lausanne",,0
+Cut pizza losanna,"Rue Sainte-Beuve 9, 1005 Lausanne",,0
+Daisuki,"Avenue de France 38, 1004 Lausanne",,0
+Diabolo Pizza,"Avenue William-Fraisse 9, 1006 Lausanne",4.0,8
+Dong Fang,"Avenue de la Gare 20, 1003 Lausanne",,0
+Donut's Coffee,"Avenue Louis-Ruchonnet 8, 1003 Lausanne",,0
+du Village,"Avenue de Chailly 59, 1012 Lausanne",,0
+Duke's,"Rue du Flon 12, 1003 Lausanne",,0
+El Batan,"Avenue de Morges 119, 1004 Lausanne",,0
+El Gato,"Rue Marterey 19, 1005 Lausanne",,0
+El.Gringo,"Place de la Riponne, 1005 Lausanne",,0
+FUSION by Sushizen,"Avenue des Boveresses 56, 1010 Lausanne",,0
+Galerie Port Franc,"Rue Côtes-de-Montbenon 14, 1003 Lausanne",,0
+Ge'ez Restaurant,"Avenue Victor-Ruffy 39, 1012 Lausanne",,0
+GeA Gelateria Artigianale,"Rue Enning 8, 1003 Lausanne",,0
+Holy Cow! Gourmet Burger Co. LAUSANNE EPFL,"Route Louis-Favre, 1024 Ecublens (VD)",,0
+Holy Monkey,"Rue Cité-Devant 6, 1005 Lausanne",,0
+il Ghiotto - GESCHLOSSEN,"Rue Cité-Devant 6, 1005 Lausanne",,0
+Indian zayeka,"Route de Chavannes 8, 1007 Lausanne",,0
+INGLEWOOD - Saint-Laurent,"Rue Saint-Laurent 14, 1003 Lausanne",,0
+Iris Café-Restaurant-Bar,"Avenue de France 18A, 1004 Lausanne",,0
+Iskender Kebab et Pâtes,"Rue Marterey 33, 1005 Lausanne",,0
+Istanbul Grill and More - Place de la Sallaz,"Place de la Sallaz 3, 1010 Lausanne",,0
+Jardin Gourmand,"Route du Jorat 80, 1000 Lausanne",,0
+Jetée de la Compagnie,1007 Lausanne,,0
+"KAMASUTRA, Thangaraja Sivaraja","rue du Valentin 23, 1004 Lausanne",,0
+L'arrosoir,"Rue Centrale 23, 1003 Lausanne",,0
+L'Assise,"Avenue de Cour 103, 1007 Lausanne",,0
+l'Esquisse,"Route du Signal 2B, 1018 Lausanne",,0
+L'Etoile Blanche,"Place Benjamin-Constant 2, 1003 Lausanne",,0
+L'or des Incas,"Avenue Alexandre-Vinet 24, 1004 Lausanne",,0
+L'union des Saveurs,"Rue de la Barre 6, 1005 Lausanne",,0
+La Brasserie Belleville,"Rue de Genève 21, 1003 Lausanne",,0
+La Brasserie de l'Unithèque,"Avenue de l'Université, 1005 Lausanne",,0
+La Brasserie du Royal,"Avenue d'Ouchy 40, 1006 Lausanne",,0
+la Bruschetta,"Avenue de la Gare 20, 1003 Lausanne",,0
+La Casa Nostra by MGM,"Rue du Lac 10, 1007 Lausanne",,0
+La Galette - Restaurant,"Rue Louis-Curtat 13, 1005 Lausanne",,0
+la Jonque,"Avenue de Cour 15, 1007 Lausanne",4.0,7
+La Mosaique,"Avenue d'Ouchy 70, 1006 Lausanne",,0
+La Pergola,"Chemin des Allinges 10, 1006 Lausanne",,0
+La Sosta,"Route du Châtelard 56, 1018 Lausanne",,0
+La Table de Vallotton,"Bâtiment EPFL Innovation Park, 1015 Lausanne",,0
+La Terrasse du Beau-Rivage Palace,"Place du Port 11, 1006 Lausanne",,0
+LABO Gelateria,"Avenue de Chailly 1B, 1012 Lausanne",,0
+lauraworld catering O'Centre du goût,"Chemin du Chalet-de-Praroman 12, 1000 Lausanne 25",,0
+Le Barock,"Rue du Port-Franc 11, 1003 Lausanne",,0
+Le Berceau des Sens,"Route de Cojonnex 18, 1000 Lausanne 25",,0
+Le Boccalino - Lausanne,"Avenue d'Ouchy 76, 1006 Lausanne",4.3,16
+Le Bruxelles Cafe,"Place de la Riponne 1, 1005 Lausanne",,0
+Le Central Lausanne,"Rue Centrale 5, 1003 Lausanne",,0
+Le Ciao,"avenue de Rhodanie 4, 1007 Lausanne",,0
+Le Duo Thaï & Sushi,"Rue Mathurin-Cordier 13, 1005 Lausanne",4.6,12
+Le Lobby Lounge - Beau-Rivage Palace,"Place du Port 17, 1006 Lausanne",,0
+Le Nabi,"Place de la Gare 16, 1003 Lausanne",,0
+le National,"Rue Neuve 13, 1003 Lausanne",,0
+Le Nil Bleu,"Avenue Villamont 17, 1005 Lausanne",,0
+Le P'tit Vidy,"Avenue de Montoie 53, 1007 Lausanne",,0
+Le Pointu,"Rue Neuve 2, 1003 Lausanne",,0
+Le Pont (Madras),"Avenue de Chailly 3, 1012 Lausanne",,0
+Le Sky Lounge - Hôtel Royal Savoy,"Avenue d'Ouchy 40, 1006 Lausanne",,0
+Le Spot,"Rue du Midi 12, 1003 Lausanne",,0
+Le Vaudois SA,"Place de la Riponne 1, 1005 Lausanne",,0
+Le Vestibule,"Rue Cité-Devant 4, 1005 Lausanne",,0
+Leonardo Mangi Sano Vivi Bene,"Voie du Chariot 6, 1003 Lausanne",4.1,21
+Les Bosquets,"Avenue d'Echallens 54, 1004 Lausanne",,0
+Les Escapades Gourmandes,"Chemin de Rovéréaz 23, 1012 Lausanne",,0
+Les Jardins De Pam,"Rue Côtes-de-Montbenon 20, 1003 Lausanne",,0
+Les Rues de Saigon Sàrl,"Rue du Bugnon 24, 1005 Lausanne",,0
+Liggs Pasta,"Rue du Midi 2, 1003 Lausanne",,0
+Lily,"Rue Chaucrau 10, 1003 Lausanne",,0
+Liny,"Rue du Port-Franc 8, 1003 Lausanne",,0
+Little Persia,"Avenue Louis-Ruchonnet 7, 1003 Lausanne",,0
+Logo du marchand Thai Square,"Avenue de Chailly 52, 1012 Lausanne",,0
+Longhorn,"Rue Saint-Pierre 3, 1003 Lausanne",,0
+loom - gelateria 1900,"Boulevard de Grancy 45, 1006 Lausanne",,0
+Lucha Libre,"Place de l'Ours 1, 1005 Lausanne",,0
+Luna,"Place du Tunnel 5, 1005 Lausanne",,0
+Luncheonette Cafe,"Rue Grand-Saint-Jean 5, 1003 Lausanne",,0
+Mad Cafe,"Rue de Genève 23, 1003 Lausanne",,0
+Madame Noï Saveurs de Thaïlande du Léman,"Avenue du Léman 73, 1005 Lausanne",,0
+Maharaja Restaurant,"Avenue Bergières 20, 1004 Lausanne",,0
+Mangiobevo,"Avenue de France 68, 1004 Lausanne",,0
+McDonald's Restaurant,"Rue de Bourg 47, 1003 Lausanne",,0
+Miyako,"Place du Port 17, 1006 Lausanne",,0
+Mizumiy,"Rue du Grand-Pont 8, 1003 Lausanne",,0
+Montreux Jazz Cafe,"Bâtiment EPFL Innovation Park, 1015 Lausanne",,0
+Neko Sushi,"Avenue de Cour 38A, 1007 Lausanne",,0
+Nomade,"Place de l'Europe 9, 1003 Lausanne",,0
+O'SAFRAN,"Chemin du Reposoir 24, 1007 Lausanne",,0
+ONIWA Sàrl,"Avenue de Tivoli 8, 1007 Lausanne",,0
+P'tit Resto,"Place de l'Europe, 1003 Lausanne",,0
+Pasta e Sfizi,"Avenue d'Ouchy 3, 1006 Lausanne",,0
+Pavillon Bar & Kitchen,"Place de la Riponne 10, 1005 Lausanne",,0
+Pida Bar,"Rue de la Louve 12, 1003 Lausanne",,0
+Pinte Du Lac de Sauvabelin,"Chemin des Celtes 1, 1018 Lausanne",,0
+Planet Bowl,"Boulevard de Grancy 58, 1006 Lausanne",,0
+Pomodoro della Nonna,"Rue Louis-Curtat 6, 1005 Lausanne",,0
+Popers,"Place Grand-St-Jean, 1003 Lausanne",,0
+Qui Résiste,"Rue Saint-Laurent 38, 1003 Lausanne",,0
+Ragoût Délices,"Rue Saint-Roch 4, 1004 Lausanne",,0
+Restaurant Atlantic,"avenue du Chablais, 1007 Lausanne",,0
+Restaurant Da Nino,"Dorigny, 1015 Ecublens",,0
+Restaurant Golden India,"Avenue du Tribunal-Fédéral 1, 1005 Lausanne",,0
+Restaurant Italien Ulivo,"Chemin de Couvaloup 13, 1005 Lausanne",,0
+Restaurant L'Echo Sàrl,"Rue de Bourg 13, 1003 Lausanne",,0
+Restaurant l'Etoile,"Rue de Genève 102, 1004 Lausanne",4.8,14
+Restaurant Le Chalet Suisse,"Route du Signal 40, 1018 Lausanne",,0
+Restaurant le Jardin Thaï - Hôtel Alpha-Palmiers,"Rue du Petit-Chêne 34, 1003 Lausanne",,0
+Restaurant le Piranha,"Route de Berne 144, 1010 Lausanne",,0
+Restaurant Le Vieux-Lausanne,"Rue Pierre-Viret 6, 1003 Lausanne",,0
+Restaurant Perbacco & Bottega,"Rue du Flon 12, 1003 Lausanne",4.7,3
+Restaurant Zhiwei,"Avenue du Léman 19, 1005 Lausanne",,0
+Ristorante La Molisana,"Avenue de Tivoli 68, 1007 Lausanne",,0
+Rue Enning,"Rue Enning 2, 1003 Lausanne",,0
+Rumah,"Chemin Antoine-de-Chandieu 12, 1006 Lausanne",,0
+Sabaidee Thai-Vieng,"Rue du Bugnon 24, 1005 Lausanne",,0
+Saveurs d'Ailleurs,"Avenue d'Ouchy 67, 1006 Lausanne",,0
+Sedef Pâtisserie,"Galeries Benjamin-Constant 1, 1003 Lausanne",,0
+shangrila-epfl,1015 Lausanne,4.4,44
+Showtime Food,"Rue du Maupas 87, 1004 Lausanne",,0
+Sidewalk Café,"Place du Tunnel 9, 1005 Lausanne",,0
+Slice Pizza,"Rue du Valentin 23, 1004 Lausanne",,0
+Snack De La Gare,"Avenue Louis-Ruchonnet 9, 1003 Lausanne",,0
+Sushizen,1015 Ecublens,,0
+Sushizen,1015 Lausanne,,0
+SUSHIZEN Epalinges,"Avenue des Boveresses 56, 1010 Lausanne",,0
+SUSHIZEN Etraz,"Avenue des Boveresses 56, 1010 Lausanne",,0
+SUSHIZEN Flon,"Avenue des Boveresses 56, 1010 Lausanne",,0
+Swiss Wine Bar,"Rue Caroline 5, 1003 Lausanne",,0
+TACO'S BAR SA,"Rue de Genève 17, 1003 Lausanne",,0
+takasan asia fusion restaurant,"Avenue du Théâtre 7, 1005 Lausanne",,0
+Tanoshii,"Place de la Riponne, 1005 Lausanne",,0
+Taolé Table Libanaise,"Avenue du Théâtre 1, 1005 Lausanne",,0
+Tartares & Co Lausanne,"Rue de Genève 7, 1003 Lausanne",,0
+Tayta,"Avenue du Tribunal-Fédéral 2, 1005 Lausanne",,0
+That's Amore,"Avenue de la Vallonnette 24, 1012 Lausanne",,0
+The Coffee Project,"Rue du Grand-Pont 4, 1003 Lausanne",,0
+The Garden Restaurant Lausanne,"Route de Berne 144, 1010 Lausanne",,0
+The Pancakes Mafia,"Rue des Terreaux 4, 1003 Lausanne",,0
+The Place 2B - Besame Mucho,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",,0
+Tiki Taka Bar Restaurant,"Avenue des Oiseaux 2, 1018 Lausanne",,0
+"TRiSHul Café-Restaurant Indien, S. Debnath","Chemin des Faverges 17, 1006 Lausanne",,0
+VaSano Ristorante Lausanne,"Place de la Gare 4, 1003 Lausanne",,0
+Veganopolis Cafe,"Avenue des Bains 4C, 1007 Lausanne",,0
+Végé Café,"Chemin des Rosiers 2, 1004 Lausanne",,0
+Vertigo By Anna,"Avenue des Bains 4a, 1007 Lausanne",,0
+Viita Food,"Place Chauderon 18, 1003 Lausanne",,0
+Votra Sàrl,"Chemin Isabelle-de-Montolieu 113, 1010 Lausanne",,0
+Wawa's Asian Kitchen,"Rue du Port-Franc 8, 1003 Lausanne",,0
+"We Love Italy, Pasta Pizza & Piadina, Lausanne","Rue Marterey 4, 1005 Lausanne",,0
+Xpresso Cafe,"Rue des Terreaux 23, 1003 Lausanne",,0
+Yomi,"Rue du Simplon 1 bis, 1006 Lausanne",,0
+YummiKa - Bar A Jus de Fruits,"Rue Enning 6, 1003 Lausanne",,0
+Montchoisi,"Avenue Antoine-Michel-Servan 30, 1006 Lausanne",,0
+1004 Café Restaurant,"Rue de Genève 87, 1004 Lausanne",,0
+à la Bossette,"Place du Nord 4, 1005 Lausanne",,0
+A La Pomme de Pin,"Rue Cité-Derrière 11, 1005 Lausanne",,0
+Acarré Sàrl,"Rue Marterey 38, 1005 Lausanne",,0
+Adriatico,"Rue de Genève 102, 1004 Lausanne",,0
+Aimé Pouly - Chantilly,"Rue Centrale 5, 1003 Lausanne",,0
+Aimé Pouly - Grottes,"Rue de la Grotte 1s, 1003 Lausanne",,0
+Aimé Pouly - Marterey,"Rue Marterey 76, 1005 Lausanne",,0
+Aquatis Hotel SA,"Route de Berne 150, 1010 Lausanne",,0
+Association Histoires Urbaines,"Rue Côtes-de-Montbenon 28, 1003 Lausanne",,0
+Atelier des Gourmands,"Rue Mercerie 14, 1003 Lausanne",,0
+Au Solstice Restaurant Sàrl,"Chemin du Levant 1, 1005 Lausanne",,0
+Aux Délices des Balkans,"Rue du Tunnel 16, 1005 Lausanne",,0
+Aux Pates Fraiches,"Chemin des Cèdres 2B, 1004 Lausanne",,0
+Aux Trois Bonheurs,"Place Benjamin-Constant 4, 1003 Lausanne",,0
+BABOUCHKA - La Cuisine Faite Maison,"Rue Marterey 33, 1005 Lausanne",,0
+BaiBua,"Chemin des Croix-Rouges 8, 1007 Lausanne",,0
+Balzac Take Away,"Boulevard de Grancy 49, 1006 Lausanne",,0
+Banh mi Olimy,"Avenue de Cour 67, 1007 Lausanne",,0
+Barberousse Bar,"Rue de Genève 17, 1003 Lausanne",,0
+BarrioFino Peruvian Food,"Rue du Tunnel 14, 1005 Lausanne",,0
+Belga Lausanne,"Place de l'Ours 1005, 1005 Lausanne",,0
+BELLA ITALIA AL SARL,"Avenue d'Echallens 17, 1004 Lausanne",,0
+Bella Vita,"Avenue de la Gare 52, 1003 Lausanne",,0
+"Bêp Viêt, Bui Nguyen","Rue du Bugnon 42, 1005 Lausanne",,0
+Blackbird SA,"Rue du Grand-Chêne 6, 1003 Lausanne",,0
+Bodega,"Place du Tunnel 9, 1005 Lausanne",,0
+Bollywood Bar Restaurant,"Rue de la Tour 6, 1004 Lausanne",,0
+Bongusto Italiano Sàrl,"Avenue du Théâtre 7, 1005 Lausanne",,0
+Bopecheur,"Place Saint-François, 1003 Lausanne",,0
+Bosphore,"Rue de la Louve 7, 1003 Lausanne",,0
+Boulangerie Grin & Cie,"Rue du Valentin 66, 1004 Lausanne",,0
+Brasserie de la forêt,"Route du Pavement 75, 1018 Lausanne",,0
+Brasserie de Malley,"Chemin de Renens 56, 1004 Lausanne",,0
+Brasserie de Montbenon,"Allée Ernest-Ansermet 3, 1003 Lausanne",,0
+Brasserie du chateau,"Place du Tunnel 1, 1005 Lausanne",,0
+Brasserie du Grand-Chêne,"Rue du Grand-Chêne 7, 1003 Lausanne",4.0,8
+Brasserie Le Cygne,"Rue du Maupas 2, 1004 Lausanne",,0
+Brasserie LesTrois Rois,"Rue du Simplon 7, 1006 Lausanne",,0
+Bravissimo,"Rue Marterey 25, 1005 Lausanne",,0
+Bref Café,"Avenue d'Echallens 48, 1004 Lausanne",,0
+Broadway Av.,"Place du Tunnel 9, 1005 Lausanne",,0
+Burger King,"Rue du Grand-Pont 10, 1003 Lausanne",,0
+Cafe Cite,"Place de la Riponne 4, 1005 Lausanne",,0
+Café de Grancy,"Avenue du Rond-Point 1, 1006 Lausanne",,0
+Café de l'Europe,"Rue du Simplon 33, 1006 Lausanne",,0
+Café du Simplon,"Rue du Simplon 17, 1006 Lausanne",,0
+Cafe Mogador,"Avenue de Montchoisi 5, 1006 Lausanne",,0
+Café-restaurant Blackbird Downtown Diner,"Route Hélène-Monastier 1, 1003 Lausanne",,0
+Café Restaurant du Nord,"Route Aloys-Fauquez 98, 1018 Lausanne",,0
+Café-restaurant La Gourmandise,"Avenue de Beaumont 22, 1012 Lausanne",,0
+Café Romand,"Place Saint-François 2, 1003 Lausanne",,0
+Caffe Spettacolo,"Place de la Gare 3, 1003 Lausanne",,0
+Casona Latina,"Rue de Genève 55 bis, 1004 Lausanne",,0
+Chez Jaime,"Rue de l'Ale 43, 1003 Lausanne",,0
+Chez Loïc Sàrl,"Avenue d'Echallens 70, 1004 Lausanne",,0
+Chez Loïc Sàrl,"Avenue de Cour 63, 1007 Lausanne",,0
+Chez ma Cousine,"Place Pépinet 1, 1003 Lausanne",,0
+Chez Majid,"Chemin du Reposoir 24, 1007 Lausanne",,0
+Chez Tony,"Rue de Bourg 39, 1003 Lausanne",,0
+chocolaterie Angehrn,"Rue Pichard 11, 1003 Lausanne",,0
+Coffee Page,"Rue du Midi 20, 1003 Lausanne",,0
+Côté Jardin,"Rue du Grand-Chêne 7, 1003 Lausanne",3.5,2
+Crazy Wolf,"Rue Haldimand 9, 1003 Lausanne",,0
+Crêperie La Chandeleur,"Rue Mercerie 9, 1003 Lausanne",,0
+Cucina 41,"Chemin des Clochetons 41, 1004 Lausanne",,0
+Culture Café,"Rue de Genève 6, 1003 Lausanne",,0
+Cusco 11,"Rue du Petit-Chêne 11, 1003 Lausanne",,0
+Da Carlo,"Rue Caroline 2, 1003 Lausanne",,0
+dieci Pizza Lausanne-Ouest,"Avenue de Morges 74, 1004 Lausanne",,0
+Doki Doki,"Avenue du Tribunal-Fédéral 4, 1005 Lausanne",,0
+Easy Snack,"Rue de l'Ale 2, 1003 Lausanne",,0
+EasyFood,"Place Bel-Air 18, 1003 Lausanne",,0
+Eat Me Restaurant & Coktail Lounge,"Rue Pépinet 3, 1003 Lausanne",,0
+Ecole hôtelière de Lausanne (EHL),"Route de Cojonnex 18, 1000 Lausanne 25",,0
+El Batan SNC,"Avenue de Morges 119, 1004 Lausanne",,0
+El Rancho,"Rue de la Barre 8, 1005 Lausanne",,0
+Eligo,"Rue du Flon 8, 1003 Lausanne",,0
+Empanadas El Gaucho,"Boulevard de Grancy 44, 1006 Lausanne",,0
+Emparaiso,"Rue de la Borde 15, 1018 Lausanne",,0
+Ephese,"Rue Neuve 4, 1003 Lausanne",,0
+Eritrean Bar  Restaurant,"Rue de la Borde 3B, 1018 Lausanne",,0
+Ernest - L'Epicerie,"Rue Cheneau-de-Bourg 17, 1003 Lausanne",,0
+Etna Pizza Patane,"Rue de la Pontaise 52, 1018 Lausanne",,0
+Euro Café,1003 Lausanne,,0
+Eva's Sandwich House,"Rue du Petit-Chêne 27, 1003 Lausanne",,0
+Five Guys,"Place Saint-François 17, 1003 Lausanne",,0
+Fleur de Pains SA,1003 Lausanne,,0
+Fleur de Pains SA,"Avenue de Jurigoz 17, 1006 Lausanne",,0
+Fleur de Pains SA - Food Truck,"Bâtiment EPFL Innovation Park I, 1015 Lausanne",,0
+Funky Chicken,1024 Ecublens (VD),,0
+Giga Tacos,"Rue de la Pontaise 42, 1018 Lausanne",,0
+Graine d'Epicure Sàrl Traiteur,"Rue de la Tour 9, 1004 Lausanne",,0
+Green Up salad bar,"Rue Marterey 1, 1005 Lausanne",,0
+Grütli,"Rue Mercerie 4, 1003 Lausanne",,0
+Happy Days,"Rue Saint-Pierre 3, 1003 Lausanne",,0
+Herat Restaurant,"Avenue Alexandre-Vinet 22, 1004 Lausanne",,0
+Hoa Sen,"Rue du Clos-de-Bulle 5, 1004 Lausanne",,0
+Holy Cow ! Gourmet Burger Co. LAUSANNE CHENEAU-DE-BOURG,"Rue Cheneau-de-Bourg 17, 1003 Lausanne",,0
+Holy Cow! Gourmet Burger Co. LAUSANNE TERREAUX,"Rue des Terreaux 10, 1003 Lausanne",,0
+Hôtel Alpha-Palmiers by Fassbind,"Rue du Petit-Chêne 34, 1003 Lausanne",,0
+Hotel d'Angleterre,"Place du Port 9, 1006 Lausanne",,0
+HSF SA,"Parc du Loup 5A, 1018 Lausanne",,0
+Hua Yuan Sàrl,"Rue de l'Ale 16, 1003 Lausanne",,0
+Il Forno Bellantoni Sàrl,"Avenue de Rumine 7, 1005 Lausanne",,0
+In Fine Traiteur,"Avenue du Léman 69, 1005 Lausanne",,0
+Intrigo,"Rue Pichard 11, 1003 Lausanne",,0
+IRIS Lausanne Café-restaurant-Bar,"Avenue de France 18A, 1004 Lausanne",,0
+Istanbul Çiğ Köfte,"Rue de Genève 85, 1004 Lausanne",,0
+Istanbul Grill and Mezze,"Avenue de la Sallaz 3, 1005 Lausanne",,0
+Ium,"Place du Tunnel 8, 1005 Lausanne",,0
+Jajaffe Sàrl,"Avenue d'Echallens 44, 1004 Lausanne",,0
+Jet Pizza,"Avenue de Béthusy 29, 1012 Lausanne",,0
+Karma,"Rue du Pont 22, 1003 Lausanne",,0
+Kawaya noodle bar,"Rue du Petit-Chêne 22, 1003 Lausanne",,0
+Kazoku Sushi bar & Restaurant,"Avenue d'Echallens 60, 1004 Lausanne",,0
+Kentucky Fried Chicken,"Place de l'Europe 9, 1003 Lausanne",,0
+KIkro Organic,"Rue du Simplon 6, 1006 Lausanne",,0
+Kitsuné Sàrl,"Avenue du Chablais 28, 1007 Lausanne",,0
+Kony Bubble Tea Taiwan,"Escaliers du Grand-Pont 5, 1003 Lausanne",,0
+Kung fu Cuisine,"Avenue de Tivoli 4, 1007 Lausanne",,0
+L'abordage Angolo Pizza,"Avenue Georgette 2, 1003 Lausanne",,0
+l'Amica M.F. Alves da Cunha,"Avenue de la Sallaz 31, 1010 Lausanne",,0
+L'Appart,"Rue de Bourg 29, 1003 Lausanne",,0
+L'Atelier,"Avenue de France 39, 1004 Lausanne",,0
+L'Auberge de Beaulieu,"Avenue Bergières 15, 1004 Lausanne",,0
+l'Etalon Noir SA,"Avenue d'Echallens 38, 1004 Lausanne",,0
+La Bavaria Sàrl,"Rue du Petit-Chêne 10, 1003 Lausanne",,0
+La Caleta,"Rue de l'Ale 15, 1003 Lausanne",,0
+LA CHOCOLATIERE,"Avenue Mon-Repos 14, 1005 Lausanne",,0
+La Esquina,"Avenue des Mousquines 1, 1005 Lausanne",,0
+La Florida,"Avenue Frédéric-César-de-la-Harpe 19, 1007 Lausanne",,0
+La Grappe d'Or,"Rue Cheneau-de-Bourg 3, 1003 Lausanne",,0
+La Grenette,"Place de la Riponne 10, 1005 Lausanne",,0
+La Muraille,"Rue de Bourg 10, 1003 Lausanne",,0
+La Parada,"Rue du Tunnel 20, 1005 Lausanne",,0
+La Pause,"Avenue Georgette 8, 1003 Lausanne",,0
+La Pinte à fromages du Lac de Sauvabelin,"Chemin des Celtes 1, 1018 Lausanne",,0
+La Quéquetterie,"Rue du Midi 2, 1003 Lausanne",,0
+la Rotonde,"Avenue du Temple 65, 1012 Lausanne",,0
+La Siesta,"Place Grand-St-Jean 2, 1003 Lausanne",,0
+La Spatule D'or,"Avenue de Sévelin 48, 1004 Lausanne",,0
+Lanky,"Avenue des Figuiers 39, 1007 Lausanne",,0
+Lausanne CFF Subway,"Place de la Gare, 1003 Lausanne",,0
+Lausanne Cocktail Club,"Rue Pépinet 5, 1003 Lausanne",,0
+le Colony Bar Frenco SA,"Avenue du Théâtre 2, 1005 Lausanne",,0
+Le Comptoir des 3 Places,"Place de la Riponne 4, 1005 Lausanne",,0
+Le Copernic,1015 Lausanne,,0
+Le Cyrano Mario Santoli,"Rue de Bourg 16, 1003 Lausanne",,0
+Le Duplex Bar,"Rue de la Tour 4, 1004 Lausanne",,0
+Le Fermier Suisse,"Ruelle du Flon 12, 1003 Lausanne",,0
+Le Jardin d'Hiver,"Avenue Gratta-Paille 2, 1018 Lausanne",,0
+le Kotchi,"Avenue Frédéric-César-de-la-Harpe 17A, 1007 Lausanne",,0
+Le Liberta,"Rue de la Barre 8, 1005 Lausanne",,0
+Le Montreux,"Place du Port 17, 1006 Lausanne",,0
+Le Musée Olympique,"Quai d'Ouchy 1, 1006 Lausanne",,0
+Le Pain Quotidien,"Place de la Gare 2, 1003 Lausanne",,0
+Le Phénix,"Rue de la Borde 31, 1018 Lausanne",,0
+Le Popu,"Route du Jorat 67, 1000 Lausanne",,0
+Le RestO du Cercle,"Allée du Bornan 6, 1007 Lausanne",,0
+le Tortillard,"Boulevard de Grancy 19A, 1006 Lausanne",,0
+Legends Sports Bar,"Rue Côtes-de-Montbenon 20, 1003 Lausanne",,0
+Les Boucaniers,"Avenue du Tribunal-Fédéral 2, 1005 Lausanne",,0
+les Gosses du Québec,"Avenue de la Gare 22, 1003 Lausanne",,0
+Les Saisons,"Avenue de Rhodanie 4, 1007 Lausanne",,0
+Les Trois rois,"Rue du Simplon 7, 1006 Lausanne",,0
+Little Jaffna,"Avenue des Figuiers 39, 1007 Lausanne",,0
+Lobby Bar & Cigar Lounge - Royal Savoy,"Avenue d'Ouchy 40, 1006 Lausanne",,0
+Lucien Moutarlier,"Place de la Palud 7, 1003 Lausanne",,0
+Lucy Restaurant Ethiopien,"Route Aloys-Fauquez 28, 1018 Lausanne",,0
+Ma-Jong SA,"Escaliers du Grand-Pont 3, 1003 Lausanne",,0
+Made in Italy Pizzeria,"Route Aloys-Fauquez 32, 1018 Lausanne",,0
+Maison Buet,"Rue Grand-St-Jean 6, 1003 Lausanne",,0
+Man'ouchy Sàrl,"Rue Dr César-Roux 9, 1005 Lausanne",,0
+Manora,"Rue Pichard 3, 1003 Lausanne",2.7,3
+Manu Il Gelato Italiano,"Place Pépinet 2, 1003 Lausanne",,0
+Marterey 56,"Rue Marterey 56, 1005 Lausanne",,0
+Marutcha,"Rue de la Grotte 4, 1003 Lausanne",,0
+McCarthy's Irish Pub,"Place Pépinet 1, 1003 Lausanne",,0
+McDonald's Restaurant,"Rue Saint-Laurent 20, 1003 Lausanne",,0
+MELAZIC SA,"Rue Madeleine 12, 1003 Lausanne",,0
+Meraki,"Place de la Riponne 10, 1005 Lausanne",,0
+Mezzo Di Pasta,"Rue de la Louve 1, 1003 Lausanne",,0
+MGM Café,"Rue du Lac 14, 1007 Lausanne",,0
+Micky's House,"Rue Cheneau-de-Bourg 9, 1003 Lausanne",,0
+Mido,"Rue de l'Ale, 1003 Lausanne",,0
+Mister Fabrizio Panini,"Rue du Simplon, 1006 Lausanne",,0
+Mium,"Avenue du Léman 21, 1005 Lausanne",,0
+Mix Cafe,"Rue du Petit-Saint-Jean 3, 1003 Lausanne",,0
+Molana,"Avenue Recordon 2, 1004 Lausanne",,0
+Monochrome,"Rue Madeleine 18, 1003 Lausanne",,0
+Monsieur 14,"Avenue Mon-Repos 14, 1005 Lausanne",,0
+Montreux Jazz Cafe at EHL,"Route de Berne 301, 1010 Lausanne",,0
+MOVIDA & POCO LOCO,"Place Chauderon 5, 1003 Lausanne",,0
+My Sandwiches,"Rue Saint-Martin 9, 1003 Lausanne",,0
+N2O,"Place de l'Europe 7, 1003 Lausanne",,0
+Nandanam Sàrl,"Avenue Louis-Ruchonnet 11, 1003 Lausanne",,0
+Naville Café Presse Lausanne Maternite,"Avenue Pierre-Decker 3, 1005 Lausanne",,0
+Nazar,"Avenue de Morges 26, 1004 Lausanne",,0
+Ni Hao,"Rue Marterey 72, 1005 Lausanne",,0
+Oba-Oba,"Avenue de Provence 82, 1007 Lausanne",,0
+Ordinary Man,"Rue du Petit-Chêne 28, 1003 Lausanne",,0
+P'tit Bar,"Rue Louis-Curtat 6, 1005 Lausanne",,0
+Palm Bar,"Rue du Petit-Chêne 34, 1003 Lausanne",,0
+Pasta e Sfizi Sàrl,"Avenue d'Ouchy 3, 1006 Lausanne",,0
+Pastabruzzo,"Place Saint-François, 1003 Lausanne",,0
+Pastelaria Rapid Lunch,"Rue de la Borde 31, 1018 Lausanne",,0
+Patinoire et Piscine de Montchoisi,"Avenue Antoine-Michel-Servan 30, 1006 Lausanne",,0
+"Pâtisserie Vincent, Chailly","Avenue de Chailly 2, 1012 Lausanne",,0
+Piazza San Marco,"Avenue d'Ouchy 38, 1006 Lausanne",,0
+Pidabar Takeaway,"Rue de la Louve 12, 1003 Lausanne",,0
+Pin Up Bar,"Rue Marterey 31, 1005 Lausanne",,0
+Pizza 15,"Avenue d'Echallens 79, 1004 Lausanne",,0
+Pizzeria Bella Vita,"Avenue de la Gare 52, 1003 Lausanne",,0
+Planet Bowl St Laurent,"Rue Saint-Laurent 38, 1003 Lausanne",,0
+Populaire,"Route du Jorat 67, 1000 Lausanne 26",,0
+Pra-Collet,"Route du Jorat 71, 1000 Lausanne 26",,0
+Prince d'Egypte,"Rue Centrale 21, 1003 Lausanne",,0
+Quai 14 - Cafe - Restaurant,"Avenue de Sévelin 14, 1004 Lausanne",,0
+Red-Sea,"Rue de la Tour 17, 1004 Lausanne",,0
+Restaurant Arcadia,"Place de la Gare 17, 1003 Lausanne",,0
+Restaurant de l'E.T.M.L.,"Rue de Sébeillon 12, 1004 Lausanne",,0
+Restaurant de la Tour,"Rue de la Tour 14, 1004 Lausanne",,0
+Restaurant de la Vallonnette,"Avenue de la Vallonnette 24, 1012 Lausanne",,0
+Restaurant des Falaises,"Chemin des Falaises 1, 1005 Lausanne",,0
+Restaurant du Golf,"Route du Golf 3, 1000 Lausanne",,0
+Restaurant Gambatte,"Rue Pré-du-Marché 15, 1004 Lausanne",,0
+Restaurant Isshin,"Place Chauderon 30, 1003 Lausanne",,0
+Restaurant Jacques,"Rue Beau-Séjour 15, 1003 Lausanne",,0
+Restaurant KR,"Avenue de France 38, 1004 Lausanne",,0
+Restaurant L'Esplanade Messidor,"Chemin Messidor 7, 1006 Lausanne",,0
+Restaurant La Poesia,"Avenue du Chablais 53, 1007 Lausanne",,0
+Restaurant La Pyramide,"Route de Chavannes 35, 1007 Lausanne",,0
+Restaurant le Rossignol,"Avenue du Léman 36, 1005 Lausanne",,0
+Restaurant Le Sixième,"Chemin des Croix-Rouges 12, 1007 Lausanne",,0
+Restaurant Le Tournesol,"Chemin du Petit-Flon 49, 1018 Lausanne",,0
+Restaurant LStadio,"Route de Romanel 10, 1018 Lausanne",,0
+Restaurant Piment Rouge,"Avenue de Cour 38A, 1007 Lausanne",,0
+Restaurant Quintino,"Avenue Bergières 10, 1004 Lausanne",,0
+Restaurant Steakhouse Churrasco,"Rue de Bourg 51, 1003 Lausanne",,0
+Restaurant Tang Roulou,"Chemin Antoine-de-Chandieu 2, 1006 Lausanne",,0
+Restaurant Troubadour,"Rue Dr César-Roux 6, 1005 Lausanne",,0
+Rialto,"Avenue de Béthusy 29, 1012 Lausanne",,0
+Roma À Table,"Avenue de France 38, 1004 Lausanne",,0
+Rooftop Madhouse,"Place de l'Europe 6, 1003 Lausanne",,0
+Royal India,"Rue Chaucrau 14, 1003 Lausanne",,0
+Sabor Latino,"Rue Saint-Martin 7, 1003 Lausanne",,0
+Saigon,"Avenue de Beaulieu 1, 1004 Lausanne",,0
+Saint Pierre,"Galeries Benjamin-Constant 1, 1003 Lausanne",,0
+Sakura Japanese Restaurant,"Chemin de Pierrefleur 30, 1004 Lausanne",,0
+Sandwicherie vietnamienne Olimy Grand-pont,"Rue du Grand-Pont 4, 1003 Lausanne",,0
+Shanti,"Avenue de la Gare 10, 1003 Lausanne",,0
+Siam Thaï Food,"Rue du Grand-Pont 18, 1003 Lausanne",,0
+Sicily Restaurant,"Avenue de la Vallonnette 24, 1012 Lausanne",,0
+Sosushi,"Rue du Maupas 6, 1004 Lausanne",,0
+Speed Food,1003 Lausanne,,0
+Sport's café le Zodiac,"Avenue de Cour 6, 1007 Lausanne",,0
+Starbucks,"Place de la Gare 2, 1003 Lausanne",,0
+Starbucks,"Place Saint-François 3, 1003 Lausanne",,0
+Starbucks,"Rue Saint-Laurent 19, 1003 Lausanne",,0
+Street Kitchen Cafe,"Rue Centrale 25, 1003 Lausanne",,0
+SUD Simplement Gourmand,"Avenue du Théâtre 1, 1005 Lausanne",,0
+Sukkho,"Rue de la Borde 39, 1018 Lausanne",,0
+Sushi Ichiban,"Rue Marterey 38, 1005 Lausanne",,0
+Sushi King,"Galerie Saint-François A, 1003 Lausanne",,0
+Sushi King,1003 Lausanne,,0
+Sushi Zen SA,"Avenue des Boveresses 56, 1010 Lausanne",,0
+Swiss Wine Hotel by Fassbind,"Rue Caroline 5, 1003 Lausanne",,0
+Ta Cave Sàrl,"Rue du Simplon 35, 1006 Lausanne",,0
+Takayama Restaurant Japonais,"Avenue d'Ouchy 58, 1006 Lausanne",,0
+Tea-Room le Phénix et cafétéria Afiro,"Avenue de Provence 22, 1007 Lausanne",,0
+Terrasse d'Ouchy,"Place de la Navigation 1A, 1006 Lausanne",,0
+Thaï Délices,"Rue de la Borde 3B, 1018 Lausanne",,0
+Thaï Orchidée,"Rue du Port-Franc 16, 1003 Lausanne",,0
+The Best of Taste Sàrl,"Rue du Valentin 12, 1004 Lausanne",,0
+The Green Van Company,"Rue de Genève 17, 1003 Lausanne",,0
+The Hideaway,"Rue Cheneau-de-Bourg 1, 1003 Lausanne",,0
+The Hill Lausanne,"Rue de Bourg 39, 1003 Lausanne",,0
+The Place 2B BIKINI BEACH,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",,0
+The secret of garden Swiss Sàrl,"Rue du Petit-Chêne 27, 1003 Lausanne",,0
+Thebackstage Bar,"Rue du Clos-de-Bulle 7, 1004 Lausanne",,0
+Theveste Gelato,"Rue du Maupas 16, 1004 Lausanne",,0
+Ti Kréyol,"Rue de la Tour 6, 1004 Lausanne",,0
+Tibits Lausanne,"Place de la Gare 11, 1003 Lausanne",,0
+Ticino,"Place de la Gare 12, 1003 Lausanne",,0
+Tonton Math African Bar and Resto,"Escaliers du Grand-Pont 1, 1003 Lausanne",,0
+Tradiswiss,"Avenue Emile-Henri-Jaques-Dalcroze 9, 1007 Lausanne",,0
+Tropicana Restaurant,"Place Saint-François 2, 1003 Lausanne",,0
+Tsering Momo,"Place du Tunnel 5, 1005 Lausanne",,0
+Un Po Di Più Trattoria,"Rue du Tunnel 1, 1005 Lausanne",,0
+Vapiano,"Place de la Gare 4, 1003 Lausanne",,0
+Veggie Moon's,"Rue du Maupas 16, 1004 Lausanne",,0
+Via Vai Trattoria,"Chemin du Bois-de-Vaux 20, 1007 Lausanne",,0
+Villeclair,"Route Aloys-Fauquez 110, 1018 Lausanne",,0
+Vinatown d'Asie,"Rue Saint-Martin 30, 1005 Lausanne",,0
+Vintage Wine Bar Sàrl,"Rue de Langallerie 7, 1003 Lausanne",,0
+Wellson,"Rue du Flon 12, 1003 Lausanne",,0
+Whoofy gauffre,"Chemin du Couchant 46, 1007 Lausanne",,0
+Yasmine Traiteur,"Rue des Fontenailles 10, 1007 Lausanne",,0
+Zafferano Restaurant,"Avenue de Tivoli 60, 1007 Lausanne",,0
+Zinema,"Rue du Maupas 4, 1004 Lausanne",,0
+Zoo Burger Sàrl,"Rue Marterey 29, 1005 Lausanne",,0
+Zooburger,"Avenue Mon-Loisir 16, 1006 Lausanne",,0
+La Coccinelle,"Route de Lausanne 17, 1032 Romanel-sur-Lausanne",5.0,11
+OiMa' Restaurant Pizzeria,"Chemin du Châtaignier 27, 1052 Le Mont-sur-Lausanne",3.7,3
+Restaurant le Coucou,"Route de Cugy 96, 1052 Le Mont-sur-Lausanne",4.5,68
+Le 7 Ieme,"Route de Lausanne 7, 1033 Cheseaux-sur-Lausanne",4.8,13
+le Postillon,"Route d'Yverdon 3, 1033 Cheseaux-sur-Lausanne",4.7,14
+la Chope d'or,"En Félezin, 1032 Romanel-sur-Lausanne",4.0,2
+Restaurant du Green Club,"Chemin des Epinettes 1, 1032 Romanel-sur-Lausanne",3.8,5
+Juli,"Route de Lausanne 38, 1052 Le Mont-sur-Lausanne",4.0,1
+Le Central,"Place de Coppoz 4A, 1052 Le Mont-sur-Lausanne",4.8,25
+CHEZ TITI - Titulaire Gentrit Pajaziti,"Chemin du Brit 23, 1032 Romanel-sur-Lausanne",,0
+Chicken Family Sàrl,"Chemin de Budron H 7A, 1052 Le Mont-sur-Lausanne",,0
+A Côté,"Rue du Pâquis 6B, 1033 Cheseaux-sur-Lausanne",,0
+Au P'tit Bonheur,"Route de Genève 4, 1033 Cheseaux-sur-Lausanne",4.8,16
+Auberge Communale de Belmont-sur-Lausanne,"Coin d'En Haut 2, 1092 Belmont-sur-Lausanne",,0
+La Principessa,"Route d'Arnier 4, 1092 Belmont-sur-Lausanne",,0
+Oima’ Restaurant Pizzeria,"Chemin du Châtaignier 27, 1052 Le Mont-sur-Lausanne",,0
+Restaurant Adore,"Chemin du Village 19, 1032 Romanel-sur-Lausanne",,0
+Auberge Communale Du Mont-sur-lausanne,"Place du Petit-Mont 4, 1052 Le Mont-sur-Lausanne",,0
+Chalet des Enfants,"Route du Chalet-des-Enfants 1, 1052 Le Mont-sur-Lausanne",,0
+Fengling,"Chemin de Budron D 1, 1052 Le Mont-sur-Lausanne",,0
+L'Accent du Sud,"Chemin de Budron D 1, 1052 Le Mont-sur-Lausanne",,0
+La nouvelle Charrue SA,"Route d'Echallens 1, 1032 Romanel-sur-Lausanne",,0
+le Relais du Grand-Mont,"Route du Grand-Mont 18, 1052 Le Mont-sur-Lausanne",,0
+McDonald's Suisse Restaurants Sàrl,"Route de Genève 7, 1033 Cheseaux-sur-Lausanne",,0
+Restaurant chez Tof,"Chemin de Maillefer 145, 1052 Le Mont-sur-Lausanne",,0
+Restaurant OliMy,"Chemin de Budron B 4, 1052 Le Mont-sur-Lausanne",,0
+Sushini,"Chemin du Châtaignier 27, 1052 Le Mont-sur-Lausanne",,0
+Xin Yuan,"Route de Lausanne 38, 1052 Le Mont-sur-Lausanne",,0
+Café Restaurant la Gare,"Place de la Gare 2, 1096 Cully",4.6,29
+Association La Branche Etablissement socio-éducatif,"Chemin de la Branche 32, 1073 Mollie-Margot",3.1,9
+Au Coeur de la Côte Malakoff,"Route du Vignoble 12, 1184 Vinzel",4.7,30
+AU PREMIER ÉTAGE,"Chemin de Bas-de-Plan 6, 1030 Bussigny",4.8,13
+Auberge aux deux sapins,"Rue du Bourg 14, 1147 Montricher",4.2,9
+Auberge communale,"Route du Village 21, 1184 Luins",4.5,350
+Auberge Communale,"Chemin du Pontet 8, 1433 Suchy",4.8,23
+Bistro du Moulin de Sévery,"Route du Moulin 10, 1141 Sévery",,0
+Buffet de la Gare Restaurant,"Route de la Conversion 289, 1093 La Conversion",4.5,4
+Delta du Mékong,"Route des Flumeaux 1, 1008 Prilly",4.0,21
+Fondation Jan Michalski pour l'écriture et la littérature,"Route de Chardéve 2, 1147 Montricher",,0
+FUN4ALL - Bowling Sévaz,"La Guérite 1, 1541 Sévaz",,0
+Gecko escalade Sàrl,"Derrey la Velaz 3, 1062 Sottens",5.0,2
+Guêpier D'Europe Restaurant,"Chemin de la Rippe 2, 1303 Penthaz",,0
+Kaizen Japanese Cuisine,"Route Lens-Crans 70, 3963 Crans VS",5.0,6
+l'Empire du Dragon,"Route de Vallaire 3B, 1025 St-Sulpice VD",4.8,18
+la Maison du Blé et du Pain,"Place de l'Hôtel de Ville 5, 1040 Echallens",,0
+Le Petit Manoir,"Avenue Ignace-Paderewski 8, 1110 Morges",4.5,20
+Maison de ville de Grancy,"Place de la Fontaine 2, 1117 Grancy",4.1,9
+Modern Times Hotel,"Chemin du Genévrier 20, 1806 St-Légier-La Chiésaz",4.5,4
+Pick-ando Mx,"Grand'Rue 1, 1522 Lucens",5.0,1
+Restaurant Du Tennis,"Promenade du Petit-Bois 13, 1110 Morges",4.6,25
+Restaurant Fleur de Sel,"Rue du Temple 10, 1304 Cossonay-Ville",4.9,15
+Restaurant Le Tablier,"Blvd de l'Arc-en-Ciel 36, 1030 Bussigny",4.7,3
+Ristorante la Piazza,"Chemin de la Charrettaz 8, 1094 Paudex",4.5,13
+Romantik Hôtel Mont-Blanc Au Lac,"Rue des Alpes 1, 1110 Morges",4.6,12
+Sushi2GoPully,"Route du Port 40, 1009 Pully",5.0,2
+Tawan Thai,"Petite rue 4, 1304 Cossonay-Ville",4.6,123
+Tête de Course,"Avenue Viollier 2, 1260 Nyon",5.0,1
+The Garden on the Lake,"Route de Saint-Maurice 18, 1814 La Tour-de-Peilz",,0
+Ul Furmighin - Ristorante e Ostello,"Piázza Gáruf 3, 6839 Sagno",4.7,3
+Auberge le Marteley,"Rue de Marteley 6, 1302 Vufflens-la-Ville",5.0,2
+Boulangerie - Patisserie Bessa,"Avenue de la Grande Fin 5, 1510 Moudon",4.0,10
+Buffalo Grill Suisse SA,"Chemin de Saugy 7, 1023 Crissier",4.2,11
+KikuZen,"Rue de la Gare 11, 1110 Morges",4.9,10
+La Hutte Bar-Restaurant,"Chemin du Parc 8, 1030 Bussigny",,0
+Le Tsalè,"Route des Dailles 15, 1619 Les Paccots",4.8,27
+Restaurant du Cheval Blanc,"Rue de Vevey 1, 1630 Bulle",5.0,23
+Tawan Thai ChokDee Sàrl,"Petite rue 4, 1304 Cossonay-Ville",,0
+Brasserie de Paudex,"Route du Simplon 7, 1094 Paudex",4.5,17
+de l'Oued,"Avenue de la Plage 27, 1028 Préverenges",4.6,7
+La Balance'l,"Place des Balances 13, 1040 Echallens",4.1,9
+Le Phenix,"Chemin de Cocagne 41, 1030 Bussigny",4.3,4
+Shanghai Garden,"Rue de la Gare 5, 1030 Bussigny",4.5,17
+L'instant Restaurant,"Route d'Echallens 10, 1037 Etagnières",,0
+Centre Espagnol,"Chemin de la Chocolatière 1, 1030 Bussigny",4.6,19
+Da Gino,"Chemin de Cudrex 15, 1030 Bussigny",4.0,1
+la Cascade,"Chemin du Centenaire 4, 1008 Prilly",,0
+le Florissant,"Avenue de Florissant 28, 1020 Renens VD",4.4,10
+National Café-Resto-Bar,"Rue du Torrent 9, 1800 Vevey",4.3,20
+Restaurant Chinois Henan Yin Jianxin,"Avenue du Censuy 18, 1020 Renens VD",4.7,10
+Sel & Braise,"Rue de l'Industrie 50, 1030 Bussigny",5.0,3
+4B restaurant Murat,"Rue de l'Industrie 4, 1030 Bussigny",,0
+L'aimant - Café créateur de liens,"Chemin Champ Perrin 1, 1030 Bussigny",,0
+L'Oxygéne Restaurant,"Route de Condémine 35, 1030 Bussigny",,0
+La Maison Tandoori,"Rue de l'Industrie 4, 1030 Bussigny",,0
+Les Amis,"Chemin de Villars 1, 1030 Bussigny",,0
+Mamma Mia Churrascaria Sàrl,"Rue de l'Industrie 63, 1030 Bussigny",4.5,4
+Traiteur Ali Baba Kebab,"Rue de Lausanne 5, 1030 Bussigny",,0
+Chez Gygy,"Rue de l'Industrie 49, 1030 Bussigny",,0
+Hôtel de Ville,"Rue de Lausanne 1, 1030 Bussigny",,0
+Nema Café,"Blvd de l'Arc-en-Ciel 1, 1030 Bussigny",,0
+Pizzeria Sole Luna,"Chemin du Vallon 1, 1030 Bussigny",,0
+Restaurant Alentejo,"Rue de l'Industrie 66, 1030 Bussigny",,0
+Restaurant-Pizzeria La Terrasse,"Rue de Lausanne 9, 1030 Bussigny",,0
+Restaurant Vivaldi,"Blvd de l'Arc-en-Ciel 1, 1030 Bussigny",,0
+Sel & Braise steakhouse,"Rue de l'Industrie 50, 1030 Bussigny",,0
+Stamm,"Route de la Chaux 4, 1030 Bussigny",,0
+Chalet du Cret Blanc,1342 Le Pont,,0
